@@ -1,0 +1,23 @@
+.fetchHeader{
+  display: flex;
+  justify-content: center;
+}
+.fetchTitle{
+  display: flex;
+  justify-content: center;
+}
+.fetchButton{
+  display: flex;
+  justify-content: center;
+}
+
+.booksBox{
+  display: flex;
+  justify-content: center;
+}
+
+.details{
+  border: 1px;
+  display: flex;
+  justify-content: space-around;
+}

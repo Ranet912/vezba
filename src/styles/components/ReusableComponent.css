@@ -1,0 +1,32 @@
+.item{
+  border: 1px solid black;
+  background-color: white;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+
+.itemLabel{
+  margin-right: 24px;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 22px;
+  /* identical to box height, or 147% */
+  letter-spacing: -0.16px;
+  color: #5F72FF;
+}
+
+.itemIcon{
+  height: 44px;
+background: #FFFFFF;
+border: 1px solid #EEEEEE;
+box-sizing: border-box;
+border-radius: 10px 10px 0px 0px;
+border-bottom: 0px;
+display: flex;
+align-items: center;
+padding-left: 20px;
+padding-right: 20px;
+width: 100%;
+}

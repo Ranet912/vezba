@@ -1,0 +1,26 @@
+.calculatorBox{
+  margin-top: 50px;
+  
+}
+
+.number1{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+
+.number2{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 5px;
+}
+
+.numberTotal{
+  display: flex;
+  justify-content: center;
+}
+
+.numberButton{
+  display: flex;
+  justify-content: center;
+}

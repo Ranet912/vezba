@@ -1,0 +1,22 @@
+.box {
+  width: 200px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+.boxDiv{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.boxButton{
+  display: flex;
+  justify-content: center;
+
+}
+
+.boxHeader{
+  display: flex;
+  justify-content: center;
+}

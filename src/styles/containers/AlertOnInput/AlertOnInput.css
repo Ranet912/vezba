@@ -1,0 +1,15 @@
+.alertBox{
+
+}
+.alertInput{
+  display: flex;
+  justify-content: center;
+}
+.alertHeader{
+  display: flex;
+  justify-content: center;
+}
+.alertHint{
+  display: flex;
+  justify-content: center;
+}

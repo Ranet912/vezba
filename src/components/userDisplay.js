@@ -1,10 +1,11 @@
 import React from 'react'
+import '../styles/components/userDisplay.css'
 
 const UserData = (props) => {
   return(
-    <div>
+    <div className="userDisplay">
 
-      <div>
+      <div className="userInfo">
         {props.name}
       </div>
 
